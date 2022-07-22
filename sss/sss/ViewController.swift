@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     func akfb() {
 
     }
+    func gtgtg() {}
 
 
 }
